@@ -1,9 +1,4 @@
 async function startQuiz() {
-<<<<<<< HEAD
-    
-}
-=======
-
     let finalScore = 0;
     for (let index = 0; index < questions.length; index++) {
         const {question, answers, correct} = questions[index];
@@ -45,4 +40,3 @@ const questions = [
         correct: 0
     }
 ]
->>>>>>> e44799398872067e50e50546a2eacc7671c3aacf
