@@ -1,3 +1,10 @@
 async function simplePromiseAsync() {
-    // TODO
+    let promise = new Promise(function(resolve, reject){
+        setTimeout(()=> {
+            resolve('Async/Await is awesome!');
+        }, 2000);
+    });
+
+    let result = await promise;
+    console.log(result);
 }
