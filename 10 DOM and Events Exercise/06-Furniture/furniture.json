@@ -1,12 +1,12 @@
 [{
-        "img": "https://www.ikea.com/PIAimages/0447583_PE597395_S5.JPG",
+        "img": "https://medleyhome.com/cdn/shop/files/rio-sofa-92-texture-oyster-02.jpg?v=1683918355&width=800",
         "name": "Sofa",
         "price": "259",
         "decFactor": "0.4"
 
     },
     {
-        "img": "https://www.stylespafurniture.com/wp-content/uploads/2020/03/Cove_3_Door_Wardrobe_1.jpg",
+        "img": "https://www.bludot.com/media/catalog/product/s/h/sh1_cabnet_sk.2x_1_ipad_1.jpg?optimize=medium&fit=bounds&height=1200&width=1500&canvas=1500:1200",
         "name": "Wardrobe",
         "price": "120",
         "decFactor": "1.2"
