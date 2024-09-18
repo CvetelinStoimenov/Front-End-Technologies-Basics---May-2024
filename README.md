@@ -1,5 +1,5 @@
-# Front-End Technologies Basics - May 2024
 ## Tasks for exercise in class, homework for the course, and my solutions.
+# Front-End Technologies Basics - May 2024
 
 ## About the Course
 This course is specifically designed for QA engineers and aims to enhance their knowledge and skills in front-end development. It provides an in-depth review of key technologies, starting with the basics of HTML and CSS, progressing through essential JavaScript concepts, and delving into DOM manipulation and event handling. The curriculum also covers critical areas such as RESTful services, AJAX, and working with remote databases like Firebase. A significant emphasis is placed on practical experience, where participants will engage with popular testing tools like qUnit and Playwright. This hands-on approach equips QA engineers with the ability to select and utilize the most appropriate tools for different scenarios in front-end test development.
